@@ -1,0 +1,2 @@
+.this is a new text file.
+.this file is created in order to check bash commands of git.
